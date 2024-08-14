@@ -10,3 +10,7 @@
 ## Learning Laravel
 This a repositry of a contact form laravel package practice.
 
+
+## Installation
+
+composer require shalawi007/contactform
