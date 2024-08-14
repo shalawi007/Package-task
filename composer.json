@@ -1,0 +1,24 @@
+{
+    "name": "shalawi007/contactform",
+    "description": "A contact form package for laravel",
+    "autoload": {
+        "psr-4": {
+            "Shalawi007\\Contactform\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali Alsheala",
+            "email": "shoala1994@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Shalawi007\\Contactform\\ContactFormServiceProvider"
+            ]
+        }
+    }
+}
+
